@@ -1,5 +1,5 @@
 # Dreame_Vacuum_Box
-Reusable vacuum box for the Dreame L10S Ultra
+Reusable vacuum box for the Dreame L10S Ultra.  
 Door gasket 1.75mm TPU filament.  
 Hinge pin 1.75mm solid filament.  
 Gasket TPU filament.  
